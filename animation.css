@@ -1,0 +1,10 @@
+.logo{width: 10vw;border-radius: 3px;}
+.navbar{display: flex;list-style: none;text-align: center;justify-content: space-between;padding-left: 40px;padding-right: 40px;background-image: url(https://vivrelibredotblog.files.wordpress.com/2018/01/le-fond-et-la-forme.png?w=1200);flex-direction: row;}
+.liste{display: flex;list-style: none;gap: 10px;font-size:xx-large;margin-top: 60px;}
+.card{width: 20vw;}
+.cover{width: 20vw;height: 50vh;border-radius: 10px;}
+.category{ display: flex; gap: 10px;margin-top: 10px; }
+.item1{background-color: aliceblue;padding-left: 20px;padding-right: 20px;border-radius: 10%; font-size:medium;}
+.anime{display: flex;gap: 10px;margin-top: 20px;}
+li:hover{color: blue;}
+li{cursor: pointer;}

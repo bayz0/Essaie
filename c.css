@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@800&display=swap');
+
+.oui{font-family: 'Martian Mono', monospace;
+    background-image: url(https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg);}
+
+    .logo{height: 100px;justify-content: left;}
+
+.navbar{overflow: hidden;float: left;opacity: 80%;box-shadow: 20px 10px 20px 10px;
+    height: 160%;width: 90%;
+    display: flex;
+   text-align: center;
+    justify-content: space-between;
+    margin-left:140px; margin-right:200px;height: 150px; border: none;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyZNu-ckxmk7Tf9AW0rZXboIax-JzAiCu73bqizuCiOswtJe6_dK-BHcrl-YE8HloUDU&usqp=CAU);
+color: rgb(0, 0, 0);margin-bottom: 20px;border: none;
+padding-left: 10px;
+outline: none;
+border-radius: 65px;border-style: dotted; 
+}
+
+.list{ display: flex; text-align: center; background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyZNu-ckxmk7Tf9AW0rZXboIax-JzAiCu73bqizuCiOswtJe6_dK-BHcrl-YE8HloUDU&usqp=CAU);border-style: dotted;
+   
+    gap: 1040%;;color: rgb(0, 0, 0)
+;height: 50%;width: 1250px; 
+; border-style: dotted;
+margin-bottom: 4%; border-radius: 65px;box-shadow: 20px 10px 20px 10px;
+}
+
+.login{ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuyZNu-ckxmk7Tf9AW0rZXboIax-JzAiCu73bqizuCiOswtJe6_dK-BHcrl-YE8HloUDU&usqp=CAU); display: flex;font-weight: bold;center;height: 30px;width: 100%; border-bottom: 700px;font-weight: 400px
+    border-bottom: rgb(242, 248, 249);
+justify-content: space-between;
+}
+
+.image{height: 30%;justify-content: center;width: 50%;}
+
+input{;font-weight: bold;height: 60px;width: 150%; border-bottom: 700px;font-weight: 400px;
+ border-bottom: cyan;
+color: rgb(9, 9, 9);margin-bottom: 90px;border: none;
+padding-left: 10px;
+outline: none;
+border-radius: 30px;}
+
+    .ygg{justify-content: space-between;}
+
+.log{width: 110%; border-bottom: 50%;font-weight: 400px;
+    background-color: rgb(9, 9, 9);
+    color: rgb(248, 12, 12);
+text-align: center; border-radius: 100%;}
+2{display: flex;font-weight: bold;center;height: 90px;width: 150%; border-bottom: 700px;font-weight: 400px
+    border-bottom: rgb(242, 248, 249);
+justify-content: space-between;margin-bottom: 90px;padding-left: 50%}
+
+li { gap: 100%; justify-content: center; display:flex;text-align: center;outline: none;
+  }
+
